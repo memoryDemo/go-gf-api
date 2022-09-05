@@ -1,7 +1,7 @@
 ROOT_DIR    = $(shell pwd)
 NAMESPACE   = "default"
-DEPLOY_NAME = "gf-demo-user"
-DOCKER_NAME = "gf-demo-user"
+DEPLOY_NAME = "go-influxdb2-api"
+DOCKER_NAME = "go-influxdb2-api"
 
 # Install/Update to the latest CLI tool.
 .PHONY: cli
